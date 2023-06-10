@@ -1,6 +1,6 @@
 package src;
 
-public class Pokemon {
+public abstract class Pokemon {
 
     //VARIABLES
     private String name;
